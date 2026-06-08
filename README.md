@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:0a0f3d,100:000814&height=220&section=header&text=SRIVATSAN%20B&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&stroke=00d4ff&strokeWidth=2&desc=◈%20Python%20AI%20Engineer%20◈%20Agentic%20AI%20◈%20RAG%20Architect%20◈%20LLM%20Systems%20◈&descAlignY=68&descSize=15&descColor=7b8cde" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:0a0f3d,100:000814&height=220&section=header&text=SRIVATSAN%20B&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&stroke=00d4ff&strokeWidth=2&desc=◈%20Python%20AI%20Engineer%20◈%20Agentic%20AI%20Architect%20◈%20LLM%20Systems%20◈%20RAG%20Expert%20◈&descAlignY=68&descSize=15&descColor=7b8cde" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=%5BSYSTEM+BOOT%5D+Initializing+AI+Stack...;%E2%96%B6+Python+%7C+FastAPI+%7C+LangChain+%7C+LangGraph;%E2%96%B6+Agentic+AI+%7C+Multi-Agent+Orchestration;%E2%96%B6+RAG+%7C+Vector+DBs+%7C+LLM+Engineering;%E2%96%B6+Enterprise+GenAI+%7C+Production+Systems;%5BSTATUS%5D+All+systems+operational+%E2%9C%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=%5BSYSTEM+BOOT%5D+Initializing+AI+Stack...;%E2%96%B6+Python+%7C+FastAPI+%7C+LangChain+%7C+LangGraph;%E2%96%B6+Agentic+AI+%7C+Multi-Agent+Orchestration;%E2%96%B6+RAG+%7C+Vector+DBs+%7C+LLM+Engineering;%E2%96%B6+Healthcare+%7C+Aviation+%7C+Finance+%7C+Insurance+AI;%5BSTATUS%5D+All+systems+operational+%E2%9C%93)](https://git.io/typing-svg)
 
 </div>
 
@@ -22,17 +22,6 @@
 
 ---
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════╗
-║  ███╗   ██╗███████╗██╗   ██╗██████╗  █████╗ ██╗          ███╗   ██╗███████╗████████╗  ║
-║  ████╗  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗██║          ████╗  ██║██╔════╝╚══██╔══╝  ║
-║  ██╔██╗ ██║█████╗  ██║   ██║██████╔╝███████║██║          ██╔██╗ ██║█████╗     ██║     ║
-║  ██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██╔══██║██║          ██║╚██╗██║██╔══╝     ██║     ║
-║  ██║ ╚████║███████╗╚██████╔╝██║  ██║██║  ██║███████╗     ██║ ╚████║███████╗   ██║     ║
-║  ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝     ╚═╝  ╚═══╝╚══════╝   ╚═╝     ║
-╚══════════════════════════════════════════════════════════════════════════════════╝
-```
-
 ## ◈ SYSTEM PROFILE
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
@@ -43,35 +32,35 @@
 # ╚══════════════════════════════════════════╝
 
 class SrivatsanB:
-    """Python AI Developer | Neural Architect"""
+    """Python AI Developer | Enterprise GenAI Architect"""
 
     DESIGNATION  = "Python AI Developer @ Infosys"
     LOCATION     = "Bangalore, India 🇮🇳"
     EXPERIENCE   = "~2 years in production AI"
     CLEARANCE    = "Enterprise GenAI — Level 3"
 
+    DOMAINS = [
+        "Healthcare & FDA Regulatory AI",
+        "Aviation & Aerospace Document AI",
+        "Medical Insurance & Contract AI",
+        "Computer Vision & Image Search",
+        "Enterprise Search & Big Data",
+    ]
+
     CORE_STACK = {
         "orchestration" : ["LangChain", "LangGraph", "Google ADK"],
         "backend"       : ["Python", "FastAPI", "REST APIs"],
         "vector_stores" : ["FAISS", "Pinecone", "Chroma", "Qdrant"],
-        "cloud"         : ["AWS", "Azure", "CI/CD"],
-        "data"          : ["MongoDB", "PySpark", "Hive", "SQL"],
+        "cloud"         : ["AWS Bedrock", "Azure OpenAI", "CI/CD"],
+        "data"          : ["MongoDB", "PySpark", "Hive", "Solr"],
     }
 
-    ACTIVE_MISSIONS = [
-        "Multi-Agent Orchestration Patterns",
-        "Cloud-native AI Deployments",
-        "LLM Fine-tuning & Evaluation",
-        "MLOps — Model Versioning & Monitoring",
-    ]
+    MISSIONS_COMPLETED = 8   # End-to-end AI systems shipped
+    AWARDS             = 2   # Rookie of the Quarter @ Infosys
 
     @staticmethod
     def directive() -> str:
         return "Build systems that THINK, not just execute."
-
-    @staticmethod
-    def speciality() -> str:
-        return "Turning documents into intelligent chatbots 🤖"
 ```
 
 <br clear="right"/>
@@ -104,8 +93,8 @@ class SrivatsanB:
 
 **▸ CLOUD & DEVOPS**
 
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=ff9500&labelColor=0a0f3d)
-![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=ff9500&labelColor=0a0f3d)
+![AWS](https://img.shields.io/badge/AWS_Bedrock-0d1117?style=for-the-badge&logo=amazonaws&logoColor=ff9500&labelColor=0a0f3d)
+![Azure](https://img.shields.io/badge/Azure_OpenAI-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=ff9500&labelColor=0a0f3d)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=for-the-badge&logo=githubactions&logoColor=ff9500&labelColor=0a0f3d)
 ![Agile](https://img.shields.io/badge/Agile-0d1117?style=for-the-badge&logo=jira&logoColor=ff9500&labelColor=0a0f3d)
 
@@ -114,7 +103,13 @@ class SrivatsanB:
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=38bdae&labelColor=0a0f3d)
 ![PySpark](https://img.shields.io/badge/PySpark-0d1117?style=for-the-badge&logo=apachespark&logoColor=38bdae&labelColor=0a0f3d)
 ![Hive](https://img.shields.io/badge/Apache_Hive-0d1117?style=for-the-badge&logo=apachehive&logoColor=38bdae&labelColor=0a0f3d)
-![NoSQL](https://img.shields.io/badge/NoSQL-0d1117?style=for-the-badge&logo=apache&logoColor=38bdae&labelColor=0a0f3d)
+![Solr](https://img.shields.io/badge/Apache_Solr-0d1117?style=for-the-badge&logo=apache&logoColor=38bdae&labelColor=0a0f3d)
+
+**▸ FRONTEND & FULL STACK**
+
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61dafb&labelColor=0a0f3d)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=0a0f3d)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=ffca28&labelColor=0a0f3d)
 
 </div>
 
@@ -149,46 +144,6 @@ class SrivatsanB:
 
 </div>
 
-> **[SNAKE ANIMATION]** — *Add the following GitHub Action to your repo to enable the contribution snake:*
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake
-on:
-  schedule: [{ cron: "0 12 * * *" }]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: vatsan12
-          outputs: |
-            dist/github-snake.svg?palette=github-dark&color_snake=00d4ff
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=bf91f3
-      - uses: crazy-max/ghaction-github-pages@v3
-        with: { target_branch: output, build_dir: dist }
-        env: { GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} }
-```
-
-<div align="center">
-
-![Snake](https://raw.githubusercontent.com/vatsan12/vatsan12/output/github-snake-dark.svg#gh-dark-mode-only)
-![Snake](https://raw.githubusercontent.com/vatsan12/vatsan12/output/github-snake.svg#gh-light-mode-only)
-
-</div>
-
----
-
-## ◈ TROPHY WALL
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vatsan12&theme=matrix&no-frame=false&no-bg=true&row=1&column=7&margin-w=6&title=MultiLanguage,Repositories,Commits,Stars,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 ## ◈ MISSION LOG — WORK EXPERIENCE
@@ -210,17 +165,18 @@ jobs:
 
 <br/>
 
-> **Stack:** `Python` `FastAPI` `LangChain` `LangGraph` `Google ADK` `RAG` `FAISS` `Pinecone` `Chroma` `Qdrant` `MongoDB` `PySpark` `Hive` `AWS` `Azure`
+> **Stack:** `Python` `FastAPI` `LangChain` `LangGraph` `Google ADK` `RAG` `FAISS` `Pinecone` `Chroma` `Qdrant` `MongoDB` `PySpark` `Hive` `AWS Bedrock` `Azure OpenAI` `React` `Express`
 
 | # | Mission | Status |
 |:---:|:---|:---:|
-| 01 | Independently designed, developed, and deployed **3 end-to-end GenAI applications** for enterprise banking clients, owning full architecture, backend, and AI orchestration | `✅ DEPLOYED` |
-| 02 | Built **Agentic AI chatbots** with LangGraph & Google ADK — multi-step reasoning, dynamic tool usage, autonomous decision flows | `✅ DEPLOYED` |
-| 03 | Implemented **RAG pipelines** across FAISS, Pinecone, Chroma, and Qdrant for context-aware responses over large document repositories | `✅ DEPLOYED` |
-| 04 | Developed **AI-powered PDF generation & document automation** — LLM-driven extraction, summarization, and compliant report generation | `✅ DEPLOYED` |
-| 05 | Designed **scalable FastAPI backend services** following OpenAPI standards — low-latency, enterprise-grade, concurrent user support | `✅ DEPLOYED` |
-| 06 | Built **intelligent conversational systems** with multi-turn dialogue, session memory, query rewriting & contextual grounding | `✅ DEPLOYED` |
-| 07 | Enforced **data privacy, security & compliance** aligned with enterprise AI governance standards | `✅ ACTIVE` |
+| 01 | Independently designed, developed & deployed **8 AI systems** across Healthcare, Aviation, Insurance, and Consumer Goods domains — owning full architecture, backend, and AI orchestration | `✅ DEPLOYED` |
+| 02 | Built **Agentic AI chatbots** with LangGraph & Google ADK — multi-step reasoning, dynamic tool usage, autonomous decision flows, session memory | `✅ DEPLOYED` |
+| 03 | Implemented **RAG pipelines** across FAISS, Pinecone, Chroma, and Qdrant for context-aware responses over large document corpora | `✅ DEPLOYED` |
+| 04 | Developed **AI-powered document automation** for FDA regulatory filing, aviation service bulletins, and medical insurance contracts | `✅ DEPLOYED` |
+| 05 | Engineered **multimodal AI systems** capable of natively processing text, tables, and images from dense PDFs simultaneously | `✅ DEPLOYED` |
+| 06 | Designed **enterprise search pipelines** using Apache Solr + LLMs with Edge N-Gram algorithm for a global consumer goods client | `✅ DEPLOYED` |
+| 07 | Built **image similarity search** backend using Hugging Face embedding models and GenAI for visual clustering and retrieval | `✅ DEPLOYED` |
+| 08 | Enforced **data privacy, security & compliance** aligned with FDA, enterprise AI governance, and banking standards | `✅ ACTIVE` |
 
 </details>
 
@@ -230,14 +186,53 @@ jobs:
 
 <div align="center">
 
-| ◈ | PROJECT | STACK | SIGNAL |
-|:---:|:---|:---|:---:|
-| 🌐 | [**Portfolio & Virtual Assistant**](https://srivatsan-portfolio.web.app/) | `Firebase` `AI Agent` `RAG` | `● LIVE` |
-| 🤖 | **Agentic AI Chatbot Platform** | `Python` `FastAPI` `LangGraph` `LangChain` `Google ADK` | `● PROD` |
-| 📚 | **RAG Document Intelligence** | `FAISS` `Pinecone` `Chroma` `Qdrant` `LLMs` `Python` | `● PROD` |
-| 📄 | **AI-Powered Document Automation** | `LLMs` `FastAPI` `Python` `MongoDB` | `● PROD` |
+### ▸ PRODUCTION — ENTERPRISE DEPLOYMENTS
+
+| ◈ | PROJECT | DOMAIN | STACK | SIGNAL |
+|:---:|:---|:---|:---|:---:|
+| 🏥 | **Medical Device Regulatory Assistant** | Healthcare / FDA | `AWS Bedrock` `Claude Sonnet 4` `Qdrant` `FAISS` `FastAPI` `LangChain` `Agentic AI` | `● PROD` |
+| ✈️ | **Aviation Service Bulletin Generator** | Aviation / Aerospace | `Azure GPT-4o` `LLM OCR` `FastAPI` `React` `GenAI` `Document Automation` | `● PROD` |
+| 📋 | **Medical Contract Validator** | Healthcare Insurance | `GenAI` `FastAPI` `Express` `Embeddings` `Semantic Comparison` `Doc Automation` | `● PROD` |
+| 💬 | **Multimodal PDF Chatbot** | Enterprise Internal | `Azure GPT-4o` `Azure Ada` `Chroma` `Google ADK` `FastAPI` `React` `Agentic RAG` | `● PROD` |
+| 🌐 | [**AI Portfolio + Virtual Assistant**](https://srivatsan-portfolio.web.app/) | Personal Brand | `Firebase` `React` `FastAPI` `Cohere` `RAG` `Vercel` | `● LIVE` |
+
+### ▸ POC — PROOF OF CONCEPT BUILDS
+
+| ◈ | PROJECT | FOCUS AREA | STACK | SIGNAL |
+|:---:|:---|:---|:---|:---:|
+| 🔍 | **Enterprise Search Pipeline** | Search & Retrieval | `Apache Solr` `LLMs` `Edge N-Gram` `Python` `Data Processing` | `● SHIPPED` |
+| 🖼️ | **Image Similarity Search** | Computer Vision | `FastAPI` `Hugging Face` `Image Embeddings` `GenAI` `Python` | `● SHIPPED` |
+| 📤 | **Data Extraction Tool** | Structured Data Mining | `GenAI` `FastAPI` `React` `Vector Stores` `Python` | `● SHIPPED` |
 
 </div>
+
+<details>
+<summary><b>◈ EXPAND PROJECT DETAILS</b></summary>
+
+<br/>
+
+**🏥 Medical Device Regulatory Assistant** — *Lead Developer*
+> End-to-end Agentic AI system that autonomously generates FDA-required regulatory documents for IoT medical device approvals. Built a comprehensive knowledge base of FDA records using Qdrant/FAISS. The AI autonomously drafts documents in strict regulatory formats and automates compliant e-PDF filing — eliminating manual regulatory workflows. Stack: AWS Bedrock, Claude Sonnet 4, advanced embedding models, FastAPI, LangChain.
+
+**✈️ Aviation Service Bulletin Generator** — *Full Stack Developer*
+> Full-stack application that dynamically creates 60+ page aviation service bulletins using GenAI. Retrieves strict format guidelines from input source documents, generates compliant bulletins, and provides engineers a rich editing interface for modifications. Used Azure GPT-4o as the core LLM and as an advanced LLM-OCR engine for document ingestion. Stack: Azure GPT-4o, FastAPI, React.
+
+**📋 Medical Contract Validator** — *Full Stack Developer*
+> Full-stack AI system that generates complex medical insurance contracts and all variant documents, replicating precise formatting from input document filings. Performs deep semantic comparisons against existing contracts on e-publishing platforms to validate accuracy and ensure compliance. Stack: GenAI, FastAPI, Express, embedding models.
+
+**💬 Multimodal PDF Chatbot** — *Full Stack Developer*
+> Production-grade Agentic AI chatbot that processes dense PDFs by natively understanding text, tables, and images simultaneously. Supports multi-turn conversation with session memory, query rewriting, and contextual grounding. Stack: Azure GPT-4o, Azure Ada embeddings, Chroma, Google ADK, FastAPI, React.
+
+**🔍 Enterprise Search Pipeline** — *AI Engineer*
+> During a blueprint phase for a leading global consumer goods client, designed an Edge N-Gram processing algorithm for an enterprise Solr search pipeline that feeds data into an LLM. The algorithm was approved and adopted as the core retrieval mechanism for the production system.
+
+**🖼️ Image Similarity Search** — *Backend Developer*
+> Complete backend for an image similarity search application using Hugging Face vision embedding models and GenAI to accurately cluster, index, and retrieve visually similar images from a large corpus at scale. Stack: FastAPI, Hugging Face Transformers, Python.
+
+**📤 Data Extraction Tool** — *Full Stack Developer*
+> Full-stack tool using GenAI to parse documents, intelligently extract only the user-specified data fields, and persist structured outputs into a vector store for downstream retrieval and querying. Built both backend and frontend. Stack: GenAI, FastAPI, React, Vector Stores.
+
+</details>
 
 ---
 
@@ -255,11 +250,11 @@ jobs:
 ║  🎓 ACADEMIC       ║  B.Tech CSE — 8.89 CGPA  ║  SRM IST — 2024     ║
 ║  EXCELLENCE        ║  Top academic performer   ║  Chennai            ║
 ╠════════════════════╬══════════════════════════╬═════════════════════╣
-║  🚀 ENTERPRISE AI  ║  3 production GenAI apps  ║  Solo ownership      ║
-║  OWNERSHIP         ║  for banking clients      ║  Full-stack AI      ║
+║  🚀 ENTERPRISE AI  ║  8 AI systems shipped     ║  Solo ownership      ║
+║  OWNERSHIP         ║  across 5+ industries     ║  Full-stack AI      ║
 ╠════════════════════╬══════════════════════════╬═════════════════════╣
-║  🤝 CROSS-TEAM     ║  Data scientists +        ║  Multi-engagement   ║
-║  SYNC              ║  Frontend + Product       ║  Coordination       ║
+║  🤝 CROSS-DOMAIN   ║  Healthcare + Aviation +  ║  Multi-engagement   ║
+║  IMPACT            ║  Insurance + Consumer     ║  Coordination       ║
 ╚════════════════════╩══════════════════════════╩═════════════════════╝
 ```
 
@@ -294,7 +289,7 @@ jobs:
 ║     AI       ║  Serverless AI Deployments · Edge Inference           ║
 ╠══════════════╬═══════════════════════════════════════════════════════╣
 ║  🔗 LLM      ║  Fine-tuning · RLHF · Prompt Optimization             ║
-║     ENGINEERING ║  Evaluation Frameworks · Context Engineering       ║
+║  ENGINEERING ║  Evaluation Frameworks · Context Engineering          ║
 ╠══════════════╬═══════════════════════════════════════════════════════╣
 ║  📦 MLOps    ║  CI/CD for AI · Model Versioning                      ║
 ║              ║  Observability · Monitoring · Drift Detection          ║
