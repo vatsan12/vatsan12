@@ -1,223 +1,330 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Srivatsan%20B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Agentic%20AI%20%7C%20RAG%20Architect&descAlignY=62&descSize=16" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,50:0a0f3d,100:000814&height=220&section=header&text=SRIVATSAN%20B&fontSize=72&fontColor=00d4ff&animation=fadeIn&fontAlignY=40&stroke=00d4ff&strokeWidth=2&desc=◈%20Python%20AI%20Engineer%20◈%20Agentic%20AI%20◈%20RAG%20Architect%20◈%20LLM%20Systems%20◈&descAlignY=68&descSize=15&descColor=7b8cde" width="100%"/>
+
+</div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey%2C+I%27m+Srivatsan+%F0%9F%91%8B;Python+AI+%2B+Agentic+AI+Developer;Building+LLM-Powered+Enterprise+Apps;RAG+%7C+LangChain+%7C+LangGraph+%7C+FastAPI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=800&lines=%5BSYSTEM+BOOT%5D+Initializing+AI+Stack...;%E2%96%B6+Python+%7C+FastAPI+%7C+LangChain+%7C+LangGraph;%E2%96%B6+Agentic+AI+%7C+Multi-Agent+Orchestration;%E2%96%B6+RAG+%7C+Vector+DBs+%7C+LLM+Engineering;%E2%96%B6+Enterprise+GenAI+%7C+Production+Systems;%5BSTATUS%5D+All+systems+operational+%E2%9C%93)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=vatsan12&color=70a5fd&style=flat-square&label=Profile+Views)
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=vatsan12&color=00d4ff&style=flat-square&label=◈+PROFILE+SCANS)
+[![Portfolio](https://img.shields.io/badge/◈_LIVE_PORTFOLIO-FF6B35?style=flat-square&logo=firebase&logoColor=white)](https://srivatsan-portfolio.web.app/)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivatsan-b-5930a63a5/)
+[![Email](https://img.shields.io/badge/◈_CONTACT-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srivatsan.1203@gmail.com)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vatsan12)
 
 </div>
 
 ---
 
-## 🧠 About Me
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  ███╗   ██╗███████╗██╗   ██╗██████╗  █████╗ ██╗          ███╗   ██╗███████╗████████╗  ║
+║  ████╗  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗██║          ████╗  ██║██╔════╝╚══██╔══╝  ║
+║  ██╔██╗ ██║█████╗  ██║   ██║██████╔╝███████║██║          ██╔██╗ ██║█████╗     ██║     ║
+║  ██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██╔══██║██║          ██║╚██╗██║██╔══╝     ██║     ║
+║  ██║ ╚████║███████╗╚██████╔╝██║  ██║██║  ██║███████╗     ██║ ╚████║███████╗   ██║     ║
+║  ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝     ╚═╝  ╚═══╝╚══════╝   ╚═╝     ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## ◈ SYSTEM PROFILE
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```python
+# ╔══════════════════════════════════════════╗
+# ║        AGENT PROFILE :: SRIVATSAN B      ║
+# ╚══════════════════════════════════════════╝
+
 class SrivatsanB:
-    def __init__(self):
-        self.name         = "Srivatsan B"
-        self.location     = "Bangalore, India 🇮🇳"
-        self.email        = "srivatsan.1203@gmail.com"
-        self.degree       = "B.Tech CSE @ SRM IST (8.89 CGPA)"
-        self.role         = "Python AI Developer @ Infosys"
-        self.experience   = "~2 years"
+    """Python AI Developer | Neural Architect"""
 
-        self.stack = [
-            "Python", "FastAPI", "LangChain",
-            "LangGraph", "Google ADK",
-            "RAG", "FAISS", "Pinecone",
-            "Chroma", "Qdrant", "AWS", "Azure"
-        ]
+    DESIGNATION  = "Python AI Developer @ Infosys"
+    LOCATION     = "Bangalore, India 🇮🇳"
+    EXPERIENCE   = "~2 years in production AI"
+    CLEARANCE    = "Enterprise GenAI — Level 3"
 
-        self.currently_learning = [
-            "Advanced Agentic AI Patterns",
-            "Multi-Agent Orchestration",
-            "Cloud-native AI Deployments"
-        ]
+    CORE_STACK = {
+        "orchestration" : ["LangChain", "LangGraph", "Google ADK"],
+        "backend"       : ["Python", "FastAPI", "REST APIs"],
+        "vector_stores" : ["FAISS", "Pinecone", "Chroma", "Qdrant"],
+        "cloud"         : ["AWS", "Azure", "CI/CD"],
+        "data"          : ["MongoDB", "PySpark", "Hive", "SQL"],
+    }
 
-    def fun_fact(self):
-        return "I turn documents into intelligent, context-aware chatbots 🤖"
+    ACTIVE_MISSIONS = [
+        "Multi-Agent Orchestration Patterns",
+        "Cloud-native AI Deployments",
+        "LLM Fine-tuning & Evaluation",
+        "MLOps — Model Versioning & Monitoring",
+    ]
 
-    def motto(self):
-        return "Build systems that think, not just execute."
+    @staticmethod
+    def directive() -> str:
+        return "Build systems that THINK, not just execute."
+
+    @staticmethod
+    def speciality() -> str:
+        return "Turning documents into intelligent chatbots 🤖"
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## ◈ TECH MATRIX
 
-**Languages**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+**▸ LANGUAGES**
 
-**Frameworks & AI**
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff&labelColor=0a0f3d)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00d4ff&labelColor=0a0f3d)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logo=graphql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+**▸ AI FRAMEWORKS & ORCHESTRATION**
 
-**Vector Databases**
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=langchain&logoColor=00ff88&labelColor=0a0f3d)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&logo=graphql&logoColor=00ff88&labelColor=0a0f3d)
+![Google ADK](https://img.shields.io/badge/Google_ADK-0d1117?style=for-the-badge&logo=google&logoColor=00ff88&labelColor=0a0f3d)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=for-the-badge&logo=openai&logoColor=00ff88&labelColor=0a0f3d)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00ff88&labelColor=0a0f3d)
 
-![FAISS](https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-FF4F00?style=flat-square&logo=databricks&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+**▸ VECTOR DATABASES**
 
-**Cloud & DevOps**
+![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=bf91f3&labelColor=0a0f3d)
+![Pinecone](https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logo=pinecone&logoColor=bf91f3&labelColor=0a0f3d)
+![Chroma](https://img.shields.io/badge/Chroma-0d1117?style=for-the-badge&logo=databricks&logoColor=bf91f3&labelColor=0a0f3d)
+![Qdrant](https://img.shields.io/badge/Qdrant-0d1117?style=for-the-badge&logo=qdrant&logoColor=bf91f3&labelColor=0a0f3d)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-0052CC?style=flat-square&logo=jira&logoColor=white)
+**▸ CLOUD & DEVOPS**
 
-**Databases & Big Data**
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=ff9500&labelColor=0a0f3d)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=ff9500&labelColor=0a0f3d)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0d1117?style=for-the-badge&logo=githubactions&logoColor=ff9500&labelColor=0a0f3d)
+![Agile](https://img.shields.io/badge/Agile-0d1117?style=for-the-badge&logo=jira&logoColor=ff9500&labelColor=0a0f3d)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-E34F26?style=flat-square&logo=apache&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
-![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+**▸ DATABASES & BIG DATA**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=38bdae&labelColor=0a0f3d)
+![PySpark](https://img.shields.io/badge/PySpark-0d1117?style=for-the-badge&logo=apachespark&logoColor=38bdae&labelColor=0a0f3d)
+![Hive](https://img.shields.io/badge/Apache_Hive-0d1117?style=for-the-badge&logo=apachehive&logoColor=38bdae&labelColor=0a0f3d)
+![NoSQL](https://img.shields.io/badge/NoSQL-0d1117?style=for-the-badge&logo=apache&logoColor=38bdae&labelColor=0a0f3d)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## ◈ NEURAL ACTIVITY — GITHUB METRICS
 
 <div align="center">
 
 <a href="https://github.com/vatsan12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vatsan12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=vatsan12&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d4ff&icon_color=bf91f3&text_color=8b949e&border_color=21262d&border_radius=12&ring_color=00d4ff"/>
 </a>
 <a href="https://github.com/vatsan12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsan12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsan12&layout=compact&theme=transparent&hide_border=false&bg_color=0d1117&title_color=00d4ff&text_color=8b949e&langs_count=8&border_color=21262d&border_radius=12"/>
 </a>
 
 </div>
 
----
-
-## 🔥 Streak Stats
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=vatsan12&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vatsan12&theme=transparent&hide_border=false&background=0D1117&ring=00D4FF&fire=BF91F3&currStreakLabel=00D4FF&sideLabels=38BDAE&dates=555&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=21262D&border_radius=12&border=21262D&type=svg)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+## ◈ ACTIVITY SIGNAL
 
 <div align="center">
 
-[![Srivatsan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vatsan12&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/vatsan12)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vatsan12&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=bf91f3&point=38bdae&area=true&area_color=00d4ff&hide_border=false&border_color=21262d&custom_title=◈+COMMIT+TRACE+%7C+Last+365+Days)](https://github.com/vatsan12)
+
+</div>
+
+> **[SNAKE ANIMATION]** — *Add the following GitHub Action to your repo to enable the contribution snake:*
+
+```yaml
+# .github/workflows/snake.yml
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 12 * * *" }]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: vatsan12
+          outputs: |
+            dist/github-snake.svg?palette=github-dark&color_snake=00d4ff
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=bf91f3
+      - uses: crazy-max/ghaction-github-pages@v3
+        with: { target_branch: output, build_dir: dist }
+        env: { GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} }
+```
+
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/vatsan12/vatsan12/output/github-snake-dark.svg#gh-dark-mode-only)
+![Snake](https://raw.githubusercontent.com/vatsan12/vatsan12/output/github-snake.svg#gh-light-mode-only)
 
 </div>
 
 ---
 
-## 🏆 Trophy Wall
+## ◈ TROPHY WALL
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vatsan12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vatsan12&theme=matrix&no-frame=false&no-bg=true&row=1&column=7&margin-w=6&title=MultiLanguage,Repositories,Commits,Stars,Followers,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-## 💼 Work Experience
+## ◈ MISSION LOG — WORK EXPERIENCE
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  ▶  INFOSYS   ::   Python AI Developer   ::   Jul 2024 → PRESENT        │
+│     Location  ::   Electronic City, Bangalore                            │
+│     Clearance ::   Enterprise GenAI — Production Grade                   │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <details>
-<summary><b>🏢 Infosys — Python AI Developer | Jul 2024 – Present | Electronic City, Bangalore</b></summary>
+<summary><b>◈ EXPAND MISSION DETAILS</b></summary>
 
 <br/>
 
-> `Python` `FastAPI` `LangChain` `LangGraph` `Google ADK` `RAG` `FAISS` `Pinecone` `Chroma` `Qdrant` `MongoDB` `PySpark` `Hive` `AWS` `Azure`
+> **Stack:** `Python` `FastAPI` `LangChain` `LangGraph` `Google ADK` `RAG` `FAISS` `Pinecone` `Chroma` `Qdrant` `MongoDB` `PySpark` `Hive` `AWS` `Azure`
 
-- 🚀 Independently designed, developed, and deployed **3 end-to-end Generative AI applications** for enterprise clients, owning full architecture, backend, and AI orchestration
-- 🤖 Built **Agentic AI chatbots** using Python, FastAPI, LangChain, LangGraph, and Google ADK — enabling multi-step reasoning, tool usage, and dynamic decision flows
-- 📚 Implemented **RAG pipelines** with FAISS, Pinecone, Chroma, and Qdrant for accurate, context-aware responses over large document repositories
-- 📄 Developed **AI-powered PDF generation and document automation** systems leveraging LLMs for content extraction, summarization, structuring, and compliant report generation
-- ⚡ Designed **scalable, low-latency FastAPI backend services** following OpenAPI standards, supporting concurrent users and enterprise-grade reliability
-- 🧠 Built **intelligent conversational systems** with multi-turn dialogue, session memory, query rewriting, and contextual grounding
-- 🔒 Ensured **data privacy, security, and compliance** adherence, aligning AI solutions with enterprise governance standards
+| # | Mission | Status |
+|:---:|:---|:---:|
+| 01 | Independently designed, developed, and deployed **3 end-to-end GenAI applications** for enterprise banking clients, owning full architecture, backend, and AI orchestration | `✅ DEPLOYED` |
+| 02 | Built **Agentic AI chatbots** with LangGraph & Google ADK — multi-step reasoning, dynamic tool usage, autonomous decision flows | `✅ DEPLOYED` |
+| 03 | Implemented **RAG pipelines** across FAISS, Pinecone, Chroma, and Qdrant for context-aware responses over large document repositories | `✅ DEPLOYED` |
+| 04 | Developed **AI-powered PDF generation & document automation** — LLM-driven extraction, summarization, and compliant report generation | `✅ DEPLOYED` |
+| 05 | Designed **scalable FastAPI backend services** following OpenAPI standards — low-latency, enterprise-grade, concurrent user support | `✅ DEPLOYED` |
+| 06 | Built **intelligent conversational systems** with multi-turn dialogue, session memory, query rewriting & contextual grounding | `✅ DEPLOYED` |
+| 07 | Enforced **data privacy, security & compliance** aligned with enterprise AI governance standards | `✅ ACTIVE` |
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## ◈ PROJECT REGISTRY
 
 <div align="center">
 
-| 🗂️ Project | 🛠️ Stack | ✨ Highlights |
-|:---|:---|:---|
-| [**Portfolio & Virtual Assistant**](https://srivatsan-portfolio.web.app/) | Firebase · AI Virtual Assistant | Live portfolio with an integrated AI assistant showcasing skills, projects & experience |
-| **Agentic AI Chatbot Platform** | Python · FastAPI · LangGraph · LangChain · Google ADK | Multi-step reasoning, tool usage, dynamic decision flows; deployed for enterprise clients |
-| **RAG Document Intelligence** | FAISS · Pinecone · Chroma · Qdrant · LLMs · Python | Context-aware responses over large document repositories; multi-vector-DB support |
-| **AI-Powered Document Automation** | LLMs · FastAPI · Python · MongoDB | Automated PDF generation, summarization & compliant report creation at enterprise scale |
+| ◈ | PROJECT | STACK | SIGNAL |
+|:---:|:---|:---|:---:|
+| 🌐 | [**Portfolio & Virtual Assistant**](https://srivatsan-portfolio.web.app/) | `Firebase` `AI Agent` `RAG` | `● LIVE` |
+| 🤖 | **Agentic AI Chatbot Platform** | `Python` `FastAPI` `LangGraph` `LangChain` `Google ADK` | `● PROD` |
+| 📚 | **RAG Document Intelligence** | `FAISS` `Pinecone` `Chroma` `Qdrant` `LLMs` `Python` | `● PROD` |
+| 📄 | **AI-Powered Document Automation** | `LLMs` `FastAPI` `Python` `MongoDB` | `● PROD` |
 
 </div>
 
 ---
 
-## 🎖️ Achievements
+## ◈ ACHIEVEMENT MATRIX
 
 <div align="center">
-
-| 🏅 | Achievement | Details |
-|:---:|:---|:---|
-| 🥇 | **Rookie of the Quarter** | Awarded **twice** at Infosys for outstanding performance as a new joiner |
-| 🎓 | **Academic Excellence** | Graduated B.Tech CSE with **8.89 CGPA** from SRM Institute of Science and Technology |
-| 💼 | **Enterprise AI Ownership** | Single-handedly delivered **3 production-grade GenAI apps** for different enterprise banking clients |
-| 🤝 | **Cross-functional Collaboration** | Coordinated with data scientists, frontend engineers & product owners across multiple engagements |
-
-</div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-
-| 🎓 Degree | 🏛️ Institution | 📅 Year | 📊 Score |
-|:---|:---|:---:|:---:|
-| B.Tech — Computer Science & Engineering | SRM Institute of Science and Technology, Chennai | 2024 | 8.89 CGPA |
-
-</div>
-
----
-
-## 🌱 Currently Learning
 
 ```
-🤖 Agentic AI       → Multi-Agent Orchestration · Agent Memory · Tool Calling Patterns
-☁️  Cloud AI         → AWS Bedrock · Azure OpenAI · Serverless AI Deployments
-🔗 LLM Engineering  → Fine-tuning · RLHF · Prompt Optimization · Evaluation Frameworks
-📦 MLOps            → CI/CD for AI · Model Versioning · Observability & Monitoring
-🔒 AI Governance    → Compliance · Data Privacy · Responsible AI Practices
+╔═══════════════════════════════════════════════════════════════════════╗
+║                      ◈  ACHIEVEMENT UNLOCKED  ◈                      ║
+╠════════════════════╦══════════════════════════╦═════════════════════╣
+║  🥇 ROOKIE AWARD   ║  Awarded TWICE at        ║  INFOSYS — 2024-25  ║
+║  x2 CONSECUTIVE   ║  Infosys for outstanding  ║  Electronic City    ║
+╠════════════════════╬══════════════════════════╬═════════════════════╣
+║  🎓 ACADEMIC       ║  B.Tech CSE — 8.89 CGPA  ║  SRM IST — 2024     ║
+║  EXCELLENCE        ║  Top academic performer   ║  Chennai            ║
+╠════════════════════╬══════════════════════════╬═════════════════════╣
+║  🚀 ENTERPRISE AI  ║  3 production GenAI apps  ║  Solo ownership      ║
+║  OWNERSHIP         ║  for banking clients      ║  Full-stack AI      ║
+╠════════════════════╬══════════════════════════╬═════════════════════╣
+║  🤝 CROSS-TEAM     ║  Data scientists +        ║  Multi-engagement   ║
+║  SYNC              ║  Frontend + Product       ║  Coordination       ║
+╚════════════════════╩══════════════════════════╩═════════════════════╝
 ```
-
----
-
-<div align="center">
-
-**📬 Let's Connect**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=firebase&logoColor=white)](https://srivatsan-portfolio.web.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:srivatsan.1203@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivatsan-b-5930a63a5/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vatsan12)
-
-*"Build systems that think, not just execute."*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+
+## ◈ EDUCATION NODE
+
+<div align="center">
+
+| 🎓 | DEGREE | INSTITUTION | YEAR | SCORE |
+|:---:|:---|:---|:---:|:---:|
+| `◈` | B.Tech — Computer Science & Engineering | SRM Institute of Science & Technology, Chennai | 2024 | **8.89 CGPA** |
+
+</div>
+
+---
+
+## ◈ ACTIVE LEARNING PROTOCOLS
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                   ◈  UPSKILL QUEUE  ::  2025-26                      ║
+╠══════════════╦═══════════════════════════════════════════════════════╣
+║  🤖 AGENTIC  ║  Multi-Agent Orchestration · Agent Memory             ║
+║     AI       ║  Tool Calling Patterns · Autonomous Workflows         ║
+╠══════════════╬═══════════════════════════════════════════════════════╣
+║  ☁️  CLOUD    ║  AWS Bedrock · Azure OpenAI                           ║
+║     AI       ║  Serverless AI Deployments · Edge Inference           ║
+╠══════════════╬═══════════════════════════════════════════════════════╣
+║  🔗 LLM      ║  Fine-tuning · RLHF · Prompt Optimization             ║
+║     ENGINEERING ║  Evaluation Frameworks · Context Engineering       ║
+╠══════════════╬═══════════════════════════════════════════════════════╣
+║  📦 MLOps    ║  CI/CD for AI · Model Versioning                      ║
+║              ║  Observability · Monitoring · Drift Detection          ║
+╠══════════════╬═══════════════════════════════════════════════════════╣
+║  🔒 AI GOV   ║  Compliance · Data Privacy                            ║
+║              ║  Responsible AI · Enterprise Governance               ║
+╚══════════════╩═══════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## ◈ CONNECT TO NETWORK
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-FF6B35?style=for-the-badge&logo=firebase&logoColor=white)](https://srivatsan-portfolio.web.app/)
+[![Email](https://img.shields.io/badge/◈_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srivatsan.1203@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srivatsan-b-5930a63a5/)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vatsan12)
+
+<br/>
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│    "Build systems that THINK, not just execute."  — Srivatsan B  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000814,50:0a0f3d,100:0d0221&height=140&section=footer&animation=fadeIn&stroke=00d4ff&strokeWidth=1" width="100%"/>
